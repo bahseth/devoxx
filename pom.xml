@@ -71,7 +71,7 @@
         <scope>import</scope>
       </dependency>
     </dependencies>
-  </dependencyManagement>8
+  </dependencyManagement>
 
   <dependencies>
     <!-- Spring -->
